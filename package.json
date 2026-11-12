@@ -1,0 +1,11 @@
+{
+  "name": "footprints",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local viewer for your Google Maps Timeline routes, day by day",
+  "scripts": {
+    "dev": "node scripts/dev.js",
+    "start": "node scripts/dev.js",
+    "map:download": "node scripts/map-download.js"
+  }
+}
